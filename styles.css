@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+
+section {
+  padding: 3rem 0;
+}
+
+/* .dropdown:hover > .dropdown-menu {
+  display: block;
+} */
+
+.carousel-image {
+  display: block;
+  width: 100%;
+}
